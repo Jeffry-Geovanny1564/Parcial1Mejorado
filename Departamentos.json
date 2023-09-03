@@ -1,0 +1,90 @@
+[
+  {
+    "CodDepto": 1,
+    "DescDepto": "Guatemala"
+  },
+  {
+    "CodDepto": 2,
+    "DescDepto": "El Progreso"
+  },
+  {
+    "CodDepto": 3,
+    "DescDepto": "Sacatepéquez"
+  },
+  {
+    "CodDepto": 4,
+    "DescDepto": "Chimaltenango"
+  },
+  {
+    "CodDepto": 5,
+    "DescDepto": "Escuintla"
+  },
+  {
+    "CodDepto": 6,
+    "DescDepto": "Santa Rosa"
+  },
+  {
+    "CodDepto": 7,
+    "DescDepto": "Sololá"
+  },
+  {
+    "CodDepto": 8,
+    "DescDepto": "Totonicapán"
+  },
+  {
+    "CodDepto": 9,
+    "DescDepto": "Quetzaltenango"
+  },
+  {
+    "CodDepto": 10,
+    "DescDepto": "Suchitepéquez"
+  },
+  {
+    "CodDepto": 11,
+    "DescDepto": "Retalhuleu"
+  },
+  {
+    "CodDepto": 12,
+    "DescDepto": "San Marcos"
+  },
+  {
+    "CodDepto": 13,
+    "DescDepto": "Huehuetenango"
+  },
+  {
+    "CodDepto": 14,
+    "DescDepto": "Quiché"
+  },
+  {
+    "CodDepto": 15,
+    "DescDepto": "Baja Verapaz"
+  },
+  {
+    "CodDepto": 16,
+    "DescDepto": "Alta Verapaz"
+  },
+  {
+    "CodDepto": 17,
+    "DescDepto": "Petén"
+  },
+  {
+    "CodDepto": 18,
+    "DescDepto": "Izabal"
+  },
+  {
+    "CodDepto": 19,
+    "DescDepto": "Zacapa"
+  },
+  {
+    "CodDepto": 20,
+    "DescDepto": "Chiquimula"
+  },
+  {
+    "CodDepto": 21,
+    "DescDepto": "Jalapa"
+  },
+  {
+    "CodDepto": 22,
+    "DescDepto": "Jutiapa"
+  }
+]
