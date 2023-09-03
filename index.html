@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Consulta de Indicadores de Población</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.min.js"></script>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Indicadores de Población</h1>
+        <select id="cmbseleccionar"></select>
+        <select id="cmbseleccionarmunicipio"></select>
+        <button id="fetchButton">Obtener Indicadores</button>
+        <a href="https://docs.google.com/spreadsheets/d/1jgLK_bQI8rrONjnLDPuRG5NsnVrnq4Fi/edit#gid=1311913498" target="_blank">Lista de Departamentos y Municipios</a>
+        <div id="result">
+            <div class="table-container">
+                <table id="data-table">
+                    <thead> 
+                        <tr>
+                            <th>Nombre</th>
+                            <th>Capital</th>
+                            <th>Extensión Territorial</th>
+                            <th>Índice Masculinidad</th>
+                            <th>Prom. Personas por Hogar</th>
+                            <th>Total Sexo Hombre</th>
+                            <th>Total Sexo Mujeres</th>
+                            <!-- Agrega aquí más encabezados de columna si es necesario -->
+                        </tr>
+                    </thead>
+                    <tbody></tbody>
+                </table>
+                <canvas id="pieChart" width="20" height="20"></canvas>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
