@@ -1,0 +1,1662 @@
+[
+  {
+    "CodDepartamento": 1,
+    "CodMunicipio": 101,
+    "Descr": "Guatemala"
+  },
+  {
+    "CodDepartamento": 1,
+    "CodMunicipio": 102,
+    "Descr": "Santa Catarina Pinula"
+  },
+  {
+    "CodDepartamento": 1,
+    "CodMunicipio": 103,
+    "Descr": "San Jose Pinula"
+  },
+  {
+    "CodDepartamento": 1,
+    "CodMunicipio": 104,
+    "Descr": "San Jose del Golfo"
+  },
+  {
+    "CodDepartamento": 1,
+    "CodMunicipio": 105,
+    "Descr": "Palencia"
+  },
+  {
+    "CodDepartamento": 1,
+    "CodMunicipio": 106,
+    "Descr": "Chinautla"
+  },
+  {
+    "CodDepartamento": 1,
+    "CodMunicipio": 107,
+    "Descr": "San Pedro Ayampuc"
+  },
+  {
+    "CodDepartamento": 1,
+    "CodMunicipio": 108,
+    "Descr": "Mixco"
+  },
+  {
+    "CodDepartamento": 1,
+    "CodMunicipio": 109,
+    "Descr": "San Pedro Sacatepéquez"
+  },
+  {
+    "CodDepartamento": 1,
+    "CodMunicipio": 110,
+    "Descr": "San Juan Sacatepéquez"
+  },
+  {
+    "CodDepartamento": 1,
+    "CodMunicipio": 111,
+    "Descr": "San Raymundo"
+  },
+  {
+    "CodDepartamento": 1,
+    "CodMunicipio": 112,
+    "Descr": "Chuarrancho"
+  },
+  {
+    "CodDepartamento": 1,
+    "CodMunicipio": 113,
+    "Descr": "Fraijanes"
+  },
+  {
+    "CodDepartamento": 1,
+    "CodMunicipio": 114,
+    "Descr": "Amatitlán"
+  },
+  {
+    "CodDepartamento": 1,
+    "CodMunicipio": 115,
+    "Descr": "Villa Nueva"
+  },
+  {
+    "CodDepartamento": 1,
+    "CodMunicipio": 116,
+    "Descr": "Villa Canales"
+  },
+  {
+    "CodDepartamento": 1,
+    "CodMunicipio": 117,
+    "Descr": "San Miguel Petapa"
+  },
+  {
+    "CodDepartamento": 2,
+    "CodMunicipio": 201,
+    "Descr": "Guastatoya"
+  },
+  {
+    "CodDepartamento": 2,
+    "CodMunicipio": 202,
+    "Descr": "Morazán"
+  },
+  {
+    "CodDepartamento": 2,
+    "CodMunicipio": 203,
+    "Descr": "San Agustín Acasaguastlán"
+  },
+  {
+    "CodDepartamento": 2,
+    "CodMunicipio": 204,
+    "Descr": "San Cristobal Acasaguastlán"
+  },
+  {
+    "CodDepartamento": 2,
+    "CodMunicipio": 205,
+    "Descr": "El Jícaro"
+  },
+  {
+    "CodDepartamento": 2,
+    "CodMunicipio": 206,
+    "Descr": "Sansare"
+  },
+  {
+    "CodDepartamento": 2,
+    "CodMunicipio": 207,
+    "Descr": "Sanarate"
+  },
+  {
+    "CodDepartamento": 2,
+    "CodMunicipio": 208,
+    "Descr": "San Antonio La Paz"
+  },
+  {
+    "CodDepartamento": 3,
+    "CodMunicipio": 301,
+    "Descr": "Antigua Guatemala"
+  },
+  {
+    "CodDepartamento": 3,
+    "CodMunicipio": 302,
+    "Descr": "Jocotenango"
+  },
+  {
+    "CodDepartamento": 3,
+    "CodMunicipio": 303,
+    "Descr": "Pastores"
+  },
+  {
+    "CodDepartamento": 3,
+    "CodMunicipio": 304,
+    "Descr": "Sumpango"
+  },
+  {
+    "CodDepartamento": 3,
+    "CodMunicipio": 305,
+    "Descr": "Santo Domingo Xenacoj"
+  },
+  {
+    "CodDepartamento": 3,
+    "CodMunicipio": 306,
+    "Descr": "Santiago Sacatepéquez"
+  },
+  {
+    "CodDepartamento": 3,
+    "CodMunicipio": 307,
+    "Descr": "San Bartolomé Milpas Altas"
+  },
+  {
+    "CodDepartamento": 3,
+    "CodMunicipio": 308,
+    "Descr": "San Lucas Sacatepéquez"
+  },
+  {
+    "CodDepartamento": 3,
+    "CodMunicipio": 309,
+    "Descr": "Santa Lucia Milpas Altas"
+  },
+  {
+    "CodDepartamento": 3,
+    "CodMunicipio": 310,
+    "Descr": "Magdalena Milpas Altas"
+  },
+  {
+    "CodDepartamento": 3,
+    "CodMunicipio": 311,
+    "Descr": "Santa María de Jesús"
+  },
+  {
+    "CodDepartamento": 3,
+    "CodMunicipio": 312,
+    "Descr": "Ciudad Vieja"
+  },
+  {
+    "CodDepartamento": 3,
+    "CodMunicipio": 313,
+    "Descr": "San Miguel Dueñas"
+  },
+  {
+    "CodDepartamento": 3,
+    "CodMunicipio": 314,
+    "Descr": "San Juan Alotenango"
+  },
+  {
+    "CodDepartamento": 3,
+    "CodMunicipio": 315,
+    "Descr": "San Antonio Aguas Calientes"
+  },
+  {
+    "CodDepartamento": 3,
+    "CodMunicipio": 316,
+    "Descr": "Santa Catarina Barahona"
+  },
+  {
+    "CodDepartamento": 4,
+    "CodMunicipio": 401,
+    "Descr": "Chimaltenango"
+  },
+  {
+    "CodDepartamento": 4,
+    "CodMunicipio": 402,
+    "Descr": "San José Poaquil"
+  },
+  {
+    "CodDepartamento": 4,
+    "CodMunicipio": 403,
+    "Descr": "San Martín Jilotepeque"
+  },
+  {
+    "CodDepartamento": 4,
+    "CodMunicipio": 404,
+    "Descr": "San Juan Comalapa"
+  },
+  {
+    "CodDepartamento": 4,
+    "CodMunicipio": 405,
+    "Descr": "Santa Apolonia"
+  },
+  {
+    "CodDepartamento": 4,
+    "CodMunicipio": 406,
+    "Descr": "Tecpán"
+  },
+  {
+    "CodDepartamento": 4,
+    "CodMunicipio": 407,
+    "Descr": "Patzun"
+  },
+  {
+    "CodDepartamento": 4,
+    "CodMunicipio": 408,
+    "Descr": "San Miguel Pochuta"
+  },
+  {
+    "CodDepartamento": 4,
+    "CodMunicipio": 409,
+    "Descr": "Patzicía"
+  },
+  {
+    "CodDepartamento": 4,
+    "CodMunicipio": 410,
+    "Descr": "Santa Cruz Balanyá"
+  },
+  {
+    "CodDepartamento": 4,
+    "CodMunicipio": 411,
+    "Descr": "Acatenango"
+  },
+  {
+    "CodDepartamento": 4,
+    "CodMunicipio": 412,
+    "Descr": "San Pedro Yepocapa"
+  },
+  {
+    "CodDepartamento": 4,
+    "CodMunicipio": 413,
+    "Descr": "San Andrés Itzapa"
+  },
+  {
+    "CodDepartamento": 4,
+    "CodMunicipio": 414,
+    "Descr": "Parramos"
+  },
+  {
+    "CodDepartamento": 4,
+    "CodMunicipio": 415,
+    "Descr": "Zaragoza"
+  },
+  {
+    "CodDepartamento": 4,
+    "CodMunicipio": 416,
+    "Descr": "El Tejar"
+  },
+  {
+    "CodDepartamento": 5,
+    "CodMunicipio": 501,
+    "Descr": "Escuintla"
+  },
+  {
+    "CodDepartamento": 5,
+    "CodMunicipio": 502,
+    "Descr": "Santa Lucía Cotzumalguapa"
+  },
+  {
+    "CodDepartamento": 5,
+    "CodMunicipio": 503,
+    "Descr": "La Democracia"
+  },
+  {
+    "CodDepartamento": 5,
+    "CodMunicipio": 504,
+    "Descr": "Siquinalá"
+  },
+  {
+    "CodDepartamento": 5,
+    "CodMunicipio": 505,
+    "Descr": "•Masagua"
+  },
+  {
+    "CodDepartamento": 5,
+    "CodMunicipio": 506,
+    "Descr": "Tiquisate"
+  },
+  {
+    "CodDepartamento": 5,
+    "CodMunicipio": 507,
+    "Descr": "La Gomera"
+  },
+  {
+    "CodDepartamento": 5,
+    "CodMunicipio": 508,
+    "Descr": "Guaganazapa"
+  },
+  {
+    "CodDepartamento": 5,
+    "CodMunicipio": 509,
+    "Descr": "San José"
+  },
+  {
+    "CodDepartamento": 5,
+    "CodMunicipio": 510,
+    "Descr": "Iztapa"
+  },
+  {
+    "CodDepartamento": 5,
+    "CodMunicipio": 511,
+    "Descr": "palin"
+  },
+  {
+    "CodDepartamento": 5,
+    "CodMunicipio": 512,
+    "Descr": "San Vicente Pacaya"
+  },
+  {
+    "CodDepartamento": 5,
+    "CodMunicipio": 513,
+    "Descr": "Nueva Concepción"
+  },
+  {
+    "CodDepartamento": 6,
+    "CodMunicipio": 601,
+    "Descr": "Cuilapa"
+  },
+  {
+    "CodDepartamento": 6,
+    "CodMunicipio": 602,
+    "Descr": "Barberena"
+  },
+  {
+    "CodDepartamento": 6,
+    "CodMunicipio": 603,
+    "Descr": "Santa Rosa de Lima"
+  },
+  {
+    "CodDepartamento": 6,
+    "CodMunicipio": 604,
+    "Descr": "Casillas"
+  },
+  {
+    "CodDepartamento": 6,
+    "CodMunicipio": 605,
+    "Descr": "San Rafael las Flores"
+  },
+  {
+    "CodDepartamento": 6,
+    "CodMunicipio": 606,
+    "Descr": "Oratorio"
+  },
+  {
+    "CodDepartamento": 6,
+    "CodMunicipio": 607,
+    "Descr": "San Juan Tecuaco"
+  },
+  {
+    "CodDepartamento": 6,
+    "CodMunicipio": 608,
+    "Descr": "Chiquimulilla"
+  },
+  {
+    "CodDepartamento": 6,
+    "CodMunicipio": 609,
+    "Descr": "Taxisco"
+  },
+  {
+    "CodDepartamento": 6,
+    "CodMunicipio": 610,
+    "Descr": "Santa María Ixhuatán"
+  },
+  {
+    "CodDepartamento": 6,
+    "CodMunicipio": 611,
+    "Descr": "Guazacapán"
+  },
+  {
+    "CodDepartamento": 6,
+    "CodMunicipio": 612,
+    "Descr": "Santa Cruz el Naranjo"
+  },
+  {
+    "CodDepartamento": 6,
+    "CodMunicipio": 613,
+    "Descr": "Pueblo Nuevo Viñas"
+  },
+  {
+    "CodDepartamento": 6,
+    "CodMunicipio": 614,
+    "Descr": "Nueva Santa Rosa"
+  },
+  {
+    "CodDepartamento": 7,
+    "CodMunicipio": 701,
+    "Descr": "Sololá"
+  },
+  {
+    "CodDepartamento": 7,
+    "CodMunicipio": 702,
+    "Descr": "San Jose Chacayá"
+  },
+  {
+    "CodDepartamento": 7,
+    "CodMunicipio": 703,
+    "Descr": "Santa Maria Visitación"
+  },
+  {
+    "CodDepartamento": 7,
+    "CodMunicipio": 704,
+    "Descr": "Santa Lucía Utatlán"
+  },
+  {
+    "CodDepartamento": 7,
+    "CodMunicipio": 705,
+    "Descr": "Nahualá"
+  },
+  {
+    "CodDepartamento": 7,
+    "CodMunicipio": 706,
+    "Descr": "Santa Catarina Ixtahuacán"
+  },
+  {
+    "CodDepartamento": 7,
+    "CodMunicipio": 707,
+    "Descr": "Santa Clara La Laguna"
+  },
+  {
+    "CodDepartamento": 7,
+    "CodMunicipio": 708,
+    "Descr": "Concepción"
+  },
+  {
+    "CodDepartamento": 7,
+    "CodMunicipio": 709,
+    "Descr": "San Andrés Semetabaj"
+  },
+  {
+    "CodDepartamento": 7,
+    "CodMunicipio": 710,
+    "Descr": "Panajachel"
+  },
+  {
+    "CodDepartamento": 7,
+    "CodMunicipio": 711,
+    "Descr": "Santa Catarina Polopó"
+  },
+  {
+    "CodDepartamento": 7,
+    "CodMunicipio": 712,
+    "Descr": "San Antonio Polopó"
+  },
+  {
+    "CodDepartamento": 7,
+    "CodMunicipio": 713,
+    "Descr": "San Lucas Tolimán"
+  },
+  {
+    "CodDepartamento": 7,
+    "CodMunicipio": 714,
+    "Descr": "Santa Cruz la Laguna"
+  },
+  {
+    "CodDepartamento": 7,
+    "CodMunicipio": 715,
+    "Descr": "San Pablo La Laguna"
+  },
+  {
+    "CodDepartamento": 7,
+    "CodMunicipio": 716,
+    "Descr": "San Marcos La Laguna"
+  },
+  {
+    "CodDepartamento": 7,
+    "CodMunicipio": 717,
+    "Descr": "San Juan La Laguna"
+  },
+  {
+    "CodDepartamento": 7,
+    "CodMunicipio": 718,
+    "Descr": "San Pedro La Laguna"
+  },
+  {
+    "CodDepartamento": 7,
+    "CodMunicipio": 719,
+    "Descr": "Santiago Atitlán"
+  },
+  {
+    "CodDepartamento": 8,
+    "CodMunicipio": 801,
+    "Descr": "Totonicapán"
+  },
+  {
+    "CodDepartamento": 8,
+    "CodMunicipio": 802,
+    "Descr": "San Cristobál Totonicapán"
+  },
+  {
+    "CodDepartamento": 8,
+    "CodMunicipio": 803,
+    "Descr": "San Francisco El Alto"
+  },
+  {
+    "CodDepartamento": 8,
+    "CodMunicipio": 804,
+    "Descr": "San Andrés Xecul"
+  },
+  {
+    "CodDepartamento": 8,
+    "CodMunicipio": 805,
+    "Descr": "Momostenango"
+  },
+  {
+    "CodDepartamento": 8,
+    "CodMunicipio": 806,
+    "Descr": "Santa María Chiquimula"
+  },
+  {
+    "CodDepartamento": 8,
+    "CodMunicipio": 807,
+    "Descr": "Santa Lucía La Reforma"
+  },
+  {
+    "CodDepartamento": 8,
+    "CodMunicipio": 808,
+    "Descr": "San Bartolo"
+  },
+  {
+    "CodDepartamento": 9,
+    "CodMunicipio": 901,
+    "Descr": "Quetzaltenango"
+  },
+  {
+    "CodDepartamento": 9,
+    "CodMunicipio": 902,
+    "Descr": "Salcajá"
+  },
+  {
+    "CodDepartamento": 9,
+    "CodMunicipio": 903,
+    "Descr": "San Juan Olintepeque"
+  },
+  {
+    "CodDepartamento": 9,
+    "CodMunicipio": 904,
+    "Descr": "San Carlos Sijá"
+  },
+  {
+    "CodDepartamento": 9,
+    "CodMunicipio": 905,
+    "Descr": "Sibilia"
+  },
+  {
+    "CodDepartamento": 9,
+    "CodMunicipio": 906,
+    "Descr": "Cabricán"
+  },
+  {
+    "CodDepartamento": 9,
+    "CodMunicipio": 907,
+    "Descr": "Cajolá"
+  },
+  {
+    "CodDepartamento": 9,
+    "CodMunicipio": 908,
+    "Descr": "San Miguel Siguilá"
+  },
+  {
+    "CodDepartamento": 9,
+    "CodMunicipio": 909,
+    "Descr": "San Juan Ostuncalco"
+  },
+  {
+    "CodDepartamento": 9,
+    "CodMunicipio": 910,
+    "Descr": "San Mateo"
+  },
+  {
+    "CodDepartamento": 9,
+    "CodMunicipio": 911,
+    "Descr": "Concepción Chiquirichapa"
+  },
+  {
+    "CodDepartamento": 9,
+    "CodMunicipio": 912,
+    "Descr": "San Martín Sacatepéquez"
+  },
+  {
+    "CodDepartamento": 9,
+    "CodMunicipio": 913,
+    "Descr": "Almolonga"
+  },
+  {
+    "CodDepartamento": 9,
+    "CodMunicipio": 914,
+    "Descr": "Cantel"
+  },
+  {
+    "CodDepartamento": 9,
+    "CodMunicipio": 915,
+    "Descr": "Huitán"
+  },
+  {
+    "CodDepartamento": 9,
+    "CodMunicipio": 916,
+    "Descr": "Zunil"
+  },
+  {
+    "CodDepartamento": 9,
+    "CodMunicipio": 917,
+    "Descr": "Colomba Costa Cuca"
+  },
+  {
+    "CodDepartamento": 9,
+    "CodMunicipio": 918,
+    "Descr": "San Francisco La Unión"
+  },
+  {
+    "CodDepartamento": 9,
+    "CodMunicipio": 919,
+    "Descr": "El Palmar"
+  },
+  {
+    "CodDepartamento": 9,
+    "CodMunicipio": 920,
+    "Descr": "Coatepeque"
+  },
+  {
+    "CodDepartamento": 9,
+    "CodMunicipio": 921,
+    "Descr": "Génova"
+  },
+  {
+    "CodDepartamento": 9,
+    "CodMunicipio": 922,
+    "Descr": "Flores Costa Cuca"
+  },
+  {
+    "CodDepartamento": 9,
+    "CodMunicipio": 923,
+    "Descr": "La Esperanza"
+  },
+  {
+    "CodDepartamento": 9,
+    "CodMunicipio": 924,
+    "Descr": "Palestina de los altos"
+  },
+  {
+    "CodDepartamento": 10,
+    "CodMunicipio": 1001,
+    "Descr": "Mazatenango"
+  },
+  {
+    "CodDepartamento": 10,
+    "CodMunicipio": 1002,
+    "Descr": "Cuyotenango"
+  },
+  {
+    "CodDepartamento": 10,
+    "CodMunicipio": 1003,
+    "Descr": "San Francisco Zapotitlán"
+  },
+  {
+    "CodDepartamento": 10,
+    "CodMunicipio": 1004,
+    "Descr": "San Bernardino"
+  },
+  {
+    "CodDepartamento": 10,
+    "CodMunicipio": 1005,
+    "Descr": "San José El ídolo"
+  },
+  {
+    "CodDepartamento": 10,
+    "CodMunicipio": 1006,
+    "Descr": "Santo Domingo Suchitepequez"
+  },
+  {
+    "CodDepartamento": 10,
+    "CodMunicipio": 1007,
+    "Descr": "San Lorenzo"
+  },
+  {
+    "CodDepartamento": 10,
+    "CodMunicipio": 1008,
+    "Descr": "Samayac"
+  },
+  {
+    "CodDepartamento": 10,
+    "CodMunicipio": 1009,
+    "Descr": "San Pablo Jocopilas"
+  },
+  {
+    "CodDepartamento": 10,
+    "CodMunicipio": 1010,
+    "Descr": "San Antonio Suchitepequez"
+  },
+  {
+    "CodDepartamento": 10,
+    "CodMunicipio": 1011,
+    "Descr": "San Miguel Panan"
+  },
+  {
+    "CodDepartamento": 10,
+    "CodMunicipio": 1012,
+    "Descr": "San Gabriel"
+  },
+  {
+    "CodDepartamento": 10,
+    "CodMunicipio": 1013,
+    "Descr": "Chicacao"
+  },
+  {
+    "CodDepartamento": 10,
+    "CodMunicipio": 1014,
+    "Descr": "Patulul"
+  },
+  {
+    "CodDepartamento": 10,
+    "CodMunicipio": 1015,
+    "Descr": "Santa Bárbara"
+  },
+  {
+    "CodDepartamento": 10,
+    "CodMunicipio": 1016,
+    "Descr": "San Juan Bautista"
+  },
+  {
+    "CodDepartamento": 10,
+    "CodMunicipio": 1017,
+    "Descr": "Santo Tomás La Unión"
+  },
+  {
+    "CodDepartamento": 10,
+    "CodMunicipio": 1018,
+    "Descr": "Zunilito"
+  },
+  {
+    "CodDepartamento": 10,
+    "CodMunicipio": 1019,
+    "Descr": "Pueblo Nuevo"
+  },
+  {
+    "CodDepartamento": 10,
+    "CodMunicipio": 1020,
+    "Descr": "Río Bravo"
+  },
+  {
+    "CodDepartamento": 11,
+    "CodMunicipio": 1101,
+    "Descr": "Retalhuleu"
+  },
+  {
+    "CodDepartamento": 11,
+    "CodMunicipio": 1102,
+    "Descr": "San Sebastián"
+  },
+  {
+    "CodDepartamento": 11,
+    "CodMunicipio": 1103,
+    "Descr": "Santa Cruz Muluá"
+  },
+  {
+    "CodDepartamento": 11,
+    "CodMunicipio": 1104,
+    "Descr": "San Martin Zapotitlán"
+  },
+  {
+    "CodDepartamento": 11,
+    "CodMunicipio": 1105,
+    "Descr": "San Felipe"
+  },
+  {
+    "CodDepartamento": 11,
+    "CodMunicipio": 1106,
+    "Descr": "San Andrés Villa Seca"
+  },
+  {
+    "CodDepartamento": 11,
+    "CodMunicipio": 1107,
+    "Descr": "Champerico"
+  },
+  {
+    "CodDepartamento": 11,
+    "CodMunicipio": 1108,
+    "Descr": "Nuevo San Carlos"
+  },
+  {
+    "CodDepartamento": 11,
+    "CodMunicipio": 1109,
+    "Descr": "El Asintal"
+  },
+  {
+    "CodDepartamento": 12,
+    "CodMunicipio": 1201,
+    "Descr": "San Marcos"
+  },
+  {
+    "CodDepartamento": 12,
+    "CodMunicipio": 1202,
+    "Descr": "San Pedro Sacatepéquez"
+  },
+  {
+    "CodDepartamento": 12,
+    "CodMunicipio": 1203,
+    "Descr": "San Antonio Sacatepéquez"
+  },
+  {
+    "CodDepartamento": 12,
+    "CodMunicipio": 1204,
+    "Descr": "Comitancillo"
+  },
+  {
+    "CodDepartamento": 12,
+    "CodMunicipio": 1205,
+    "Descr": "San Miguel Ixtahuacán"
+  },
+  {
+    "CodDepartamento": 12,
+    "CodMunicipio": 1206,
+    "Descr": "Concepción Tutuapa"
+  },
+  {
+    "CodDepartamento": 12,
+    "CodMunicipio": 1207,
+    "Descr": "Tacaná"
+  },
+  {
+    "CodDepartamento": 12,
+    "CodMunicipio": 1208,
+    "Descr": "Sibinal"
+  },
+  {
+    "CodDepartamento": 12,
+    "CodMunicipio": 1209,
+    "Descr": "Tajumulco"
+  },
+  {
+    "CodDepartamento": 12,
+    "CodMunicipio": 1210,
+    "Descr": "Tejutla"
+  },
+  {
+    "CodDepartamento": 12,
+    "CodMunicipio": 1211,
+    "Descr": "San Rafael Pie de la Cuesta"
+  },
+  {
+    "CodDepartamento": 12,
+    "CodMunicipio": 1212,
+    "Descr": "Nuevo Progreso"
+  },
+  {
+    "CodDepartamento": 12,
+    "CodMunicipio": 1213,
+    "Descr": "El Tumbador"
+  },
+  {
+    "CodDepartamento": 12,
+    "CodMunicipio": 1214,
+    "Descr": "San Jose El Rodeo"
+  },
+  {
+    "CodDepartamento": 12,
+    "CodMunicipio": 1215,
+    "Descr": "Malacatán"
+  },
+  {
+    "CodDepartamento": 12,
+    "CodMunicipio": 1216,
+    "Descr": "Catarina"
+  },
+  {
+    "CodDepartamento": 12,
+    "CodMunicipio": 1217,
+    "Descr": "Ayutla"
+  },
+  {
+    "CodDepartamento": 12,
+    "CodMunicipio": 1218,
+    "Descr": "Ocós"
+  },
+  {
+    "CodDepartamento": 12,
+    "CodMunicipio": 1219,
+    "Descr": "San Pablo"
+  },
+  {
+    "CodDepartamento": 12,
+    "CodMunicipio": 1220,
+    "Descr": "El Quetzal"
+  },
+  {
+    "CodDepartamento": 12,
+    "CodMunicipio": 1221,
+    "Descr": "La Reforma"
+  },
+  {
+    "CodDepartamento": 12,
+    "CodMunicipio": 1222,
+    "Descr": "Pajapita"
+  },
+  {
+    "CodDepartamento": 12,
+    "CodMunicipio": 1223,
+    "Descr": "Ixchiguán"
+  },
+  {
+    "CodDepartamento": 12,
+    "CodMunicipio": 1224,
+    "Descr": "San Jose Ojetenam"
+  },
+  {
+    "CodDepartamento": 12,
+    "CodMunicipio": 1225,
+    "Descr": "San Cristóbal Cucho"
+  },
+  {
+    "CodDepartamento": 12,
+    "CodMunicipio": 1226,
+    "Descr": "Sipacapa"
+  },
+  {
+    "CodDepartamento": 12,
+    "CodMunicipio": 1227,
+    "Descr": "Esquipulas Palo Gordo"
+  },
+  {
+    "CodDepartamento": 12,
+    "CodMunicipio": 1228,
+    "Descr": "Rio Blanco"
+  },
+  {
+    "CodDepartamento": 12,
+    "CodMunicipio": 1229,
+    "Descr": "San Lorenzo"
+  },
+  {
+    "CodDepartamento": 12,
+    "CodMunicipio": 1230,
+    "Descr": "La Blanca"
+  },
+  {
+    "CodDepartamento": 13,
+    "CodMunicipio": 1301,
+    "Descr": "Huehuetenango"
+  },
+  {
+    "CodDepartamento": 13,
+    "CodMunicipio": 1302,
+    "Descr": "Chiantla"
+  },
+  {
+    "CodDepartamento": 13,
+    "CodMunicipio": 1303,
+    "Descr": "Malacatancito"
+  },
+  {
+    "CodDepartamento": 13,
+    "CodMunicipio": 1304,
+    "Descr": "Cuilco"
+  },
+  {
+    "CodDepartamento": 13,
+    "CodMunicipio": 1305,
+    "Descr": "Nentón"
+  },
+  {
+    "CodDepartamento": 13,
+    "CodMunicipio": 1306,
+    "Descr": "San Pedro Necta"
+  },
+  {
+    "CodDepartamento": 13,
+    "CodMunicipio": 1307,
+    "Descr": "Jacaltenango"
+  },
+  {
+    "CodDepartamento": 13,
+    "CodMunicipio": 1308,
+    "Descr": "San Pedro Soloma"
+  },
+  {
+    "CodDepartamento": 13,
+    "CodMunicipio": 1309,
+    "Descr": "San Ildefonso Ixtahuacán"
+  },
+  {
+    "CodDepartamento": 13,
+    "CodMunicipio": 1310,
+    "Descr": "Santa Bárbara"
+  },
+  {
+    "CodDepartamento": 13,
+    "CodMunicipio": 1311,
+    "Descr": "La Libertad"
+  },
+  {
+    "CodDepartamento": 13,
+    "CodMunicipio": 1312,
+    "Descr": "La Democracia"
+  },
+  {
+    "CodDepartamento": 13,
+    "CodMunicipio": 1313,
+    "Descr": "San Miguel Acatán"
+  },
+  {
+    "CodDepartamento": 13,
+    "CodMunicipio": 1314,
+    "Descr": "San Rafael La Independencia"
+  },
+  {
+    "CodDepartamento": 13,
+    "CodMunicipio": 1315,
+    "Descr": "Todos Santos Cuchumatán"
+  },
+  {
+    "CodDepartamento": 13,
+    "CodMunicipio": 1316,
+    "Descr": "San Juan Atitlán"
+  },
+  {
+    "CodDepartamento": 13,
+    "CodMunicipio": 1317,
+    "Descr": "Santa Eulalia"
+  },
+  {
+    "CodDepartamento": 13,
+    "CodMunicipio": 1318,
+    "Descr": "San Mateo Ixtatán"
+  },
+  {
+    "CodDepartamento": 13,
+    "CodMunicipio": 1319,
+    "Descr": "Colotenango"
+  },
+  {
+    "CodDepartamento": 13,
+    "CodMunicipio": 1320,
+    "Descr": "San Sebastián Huehuetenango"
+  },
+  {
+    "CodDepartamento": 13,
+    "CodMunicipio": 1321,
+    "Descr": "Tectitán"
+  },
+  {
+    "CodDepartamento": 13,
+    "CodMunicipio": 1322,
+    "Descr": "Concepción Huista"
+  },
+  {
+    "CodDepartamento": 13,
+    "CodMunicipio": 1323,
+    "Descr": "San Juan Ixcoy"
+  },
+  {
+    "CodDepartamento": 13,
+    "CodMunicipio": 1324,
+    "Descr": "San Antonio Huista"
+  },
+  {
+    "CodDepartamento": 13,
+    "CodMunicipio": 1325,
+    "Descr": "San Sebastián Coatán"
+  },
+  {
+    "CodDepartamento": 13,
+    "CodMunicipio": 1326,
+    "Descr": "Santa Cruz Barillas"
+  },
+  {
+    "CodDepartamento": 13,
+    "CodMunicipio": 1327,
+    "Descr": "Aguacatán"
+  },
+  {
+    "CodDepartamento": 13,
+    "CodMunicipio": 1328,
+    "Descr": "San Rafael Petzal"
+  },
+  {
+    "CodDepartamento": 13,
+    "CodMunicipio": 1329,
+    "Descr": "San Gaspar Ixchil"
+  },
+  {
+    "CodDepartamento": 13,
+    "CodMunicipio": 1330,
+    "Descr": "Santiago Chimaltenango"
+  },
+  {
+    "CodDepartamento": 13,
+    "CodMunicipio": 1331,
+    "Descr": "Santa Ana Huista"
+  },
+  {
+    "CodDepartamento": 14,
+    "CodMunicipio": 1401,
+    "Descr": "Quiché"
+  },
+  {
+    "CodDepartamento": 14,
+    "CodMunicipio": 1402,
+    "Descr": "Chiché"
+  },
+  {
+    "CodDepartamento": 14,
+    "CodMunicipio": 1403,
+    "Descr": "Chinique"
+  },
+  {
+    "CodDepartamento": 14,
+    "CodMunicipio": 1404,
+    "Descr": "Zacualpa"
+  },
+  {
+    "CodDepartamento": 14,
+    "CodMunicipio": 1405,
+    "Descr": "Chajul"
+  },
+  {
+    "CodDepartamento": 14,
+    "CodMunicipio": 1406,
+    "Descr": "Santo Tomás Chichicastenango"
+  },
+  {
+    "CodDepartamento": 14,
+    "CodMunicipio": 1407,
+    "Descr": "Patzité"
+  },
+  {
+    "CodDepartamento": 14,
+    "CodMunicipio": 1408,
+    "Descr": "San Antonio Ilotenango"
+  },
+  {
+    "CodDepartamento": 14,
+    "CodMunicipio": 1409,
+    "Descr": "San Pedro Jocopilas"
+  },
+  {
+    "CodDepartamento": 14,
+    "CodMunicipio": 1410,
+    "Descr": "Cunén"
+  },
+  {
+    "CodDepartamento": 14,
+    "CodMunicipio": 1411,
+    "Descr": "San Juan Cotzal"
+  },
+  {
+    "CodDepartamento": 14,
+    "CodMunicipio": 1412,
+    "Descr": "Joyabaj"
+  },
+  {
+    "CodDepartamento": 14,
+    "CodMunicipio": 1413,
+    "Descr": "Santa María Nebaj"
+  },
+  {
+    "CodDepartamento": 14,
+    "CodMunicipio": 1414,
+    "Descr": "San Andrés Sajcabajá"
+  },
+  {
+    "CodDepartamento": 14,
+    "CodMunicipio": 1415,
+    "Descr": "San Miguel Uspatán"
+  },
+  {
+    "CodDepartamento": 14,
+    "CodMunicipio": 1416,
+    "Descr": "Sacapulas"
+  },
+  {
+    "CodDepartamento": 14,
+    "CodMunicipio": 1417,
+    "Descr": "San Bartolome Jocotenango"
+  },
+  {
+    "CodDepartamento": 14,
+    "CodMunicipio": 1418,
+    "Descr": "Canillá"
+  },
+  {
+    "CodDepartamento": 14,
+    "CodMunicipio": 1419,
+    "Descr": "Chicamán"
+  },
+  {
+    "CodDepartamento": 14,
+    "CodMunicipio": 1420,
+    "Descr": "Playa Grande Ixcán"
+  },
+  {
+    "CodDepartamento": 14,
+    "CodMunicipio": 1421,
+    "Descr": "Pachalum"
+  },
+  {
+    "CodDepartamento": 15,
+    "CodMunicipio": 1501,
+    "Descr": "Salamá"
+  },
+  {
+    "CodDepartamento": 15,
+    "CodMunicipio": 1502,
+    "Descr": "San Miguel Chicaj"
+  },
+  {
+    "CodDepartamento": 15,
+    "CodMunicipio": 1503,
+    "Descr": "Rabinal"
+  },
+  {
+    "CodDepartamento": 15,
+    "CodMunicipio": 1504,
+    "Descr": "Cubulco"
+  },
+  {
+    "CodDepartamento": 15,
+    "CodMunicipio": 1505,
+    "Descr": "Granados"
+  },
+  {
+    "CodDepartamento": 15,
+    "CodMunicipio": 1506,
+    "Descr": "Santa Cruz El Chol"
+  },
+  {
+    "CodDepartamento": 15,
+    "CodMunicipio": 1507,
+    "Descr": "San Jerónimo"
+  },
+  {
+    "CodDepartamento": 15,
+    "CodMunicipio": 1508,
+    "Descr": "Purulhá"
+  },
+  {
+    "CodDepartamento": 16,
+    "CodMunicipio": 1601,
+    "Descr": "Cobán"
+  },
+  {
+    "CodDepartamento": 16,
+    "CodMunicipio": 1602,
+    "Descr": "Santa Cruz Verapaz"
+  },
+  {
+    "CodDepartamento": 16,
+    "CodMunicipio": 1603,
+    "Descr": "San Cristóbal Verapaz"
+  },
+  {
+    "CodDepartamento": 16,
+    "CodMunicipio": 1604,
+    "Descr": "Tactic"
+  },
+  {
+    "CodDepartamento": 16,
+    "CodMunicipio": 1605,
+    "Descr": "Tamahú"
+  },
+  {
+    "CodDepartamento": 16,
+    "CodMunicipio": 1606,
+    "Descr": "San Miguel Tucurú"
+  },
+  {
+    "CodDepartamento": 16,
+    "CodMunicipio": 1607,
+    "Descr": "Panzóz"
+  },
+  {
+    "CodDepartamento": 16,
+    "CodMunicipio": 1608,
+    "Descr": "Senahú"
+  },
+  {
+    "CodDepartamento": 16,
+    "CodMunicipio": 1609,
+    "Descr": "San Pedro Carchá"
+  },
+  {
+    "CodDepartamento": 16,
+    "CodMunicipio": 1610,
+    "Descr": "San Juan Chamelco"
+  },
+  {
+    "CodDepartamento": 16,
+    "CodMunicipio": 1611,
+    "Descr": "San Agustín Lanquín"
+  },
+  {
+    "CodDepartamento": 16,
+    "CodMunicipio": 1612,
+    "Descr": "Santa María Cahabón"
+  },
+  {
+    "CodDepartamento": 16,
+    "CodMunicipio": 1613,
+    "Descr": "Chiséc"
+  },
+  {
+    "CodDepartamento": 16,
+    "CodMunicipio": 1614,
+    "Descr": "Chahal"
+  },
+  {
+    "CodDepartamento": 16,
+    "CodMunicipio": 1615,
+    "Descr": "Fray Bartolomé de las Casas"
+  },
+  {
+    "CodDepartamento": 17,
+    "CodMunicipio": 1701,
+    "Descr": "Flores"
+  },
+  {
+    "CodDepartamento": 17,
+    "CodMunicipio": 1702,
+    "Descr": "San José"
+  },
+  {
+    "CodDepartamento": 17,
+    "CodMunicipio": 1703,
+    "Descr": "San Benito"
+  },
+  {
+    "CodDepartamento": 17,
+    "CodMunicipio": 1704,
+    "Descr": "San Andrés"
+  },
+  {
+    "CodDepartamento": 17,
+    "CodMunicipio": 1705,
+    "Descr": "La Libertad"
+  },
+  {
+    "CodDepartamento": 17,
+    "CodMunicipio": 1706,
+    "Descr": "San Francisco"
+  },
+  {
+    "CodDepartamento": 17,
+    "CodMunicipio": 1707,
+    "Descr": "Santa Ana"
+  },
+  {
+    "CodDepartamento": 17,
+    "CodMunicipio": 1708,
+    "Descr": "Dolores"
+  },
+  {
+    "CodDepartamento": 17,
+    "CodMunicipio": 1709,
+    "Descr": "San Luis"
+  },
+  {
+    "CodDepartamento": 17,
+    "CodMunicipio": 1710,
+    "Descr": "Sayaxché"
+  },
+  {
+    "CodDepartamento": 17,
+    "CodMunicipio": 1711,
+    "Descr": "Melchor de Mencos"
+  },
+  {
+    "CodDepartamento": 17,
+    "CodMunicipio": 1712,
+    "Descr": "Póptun"
+  },
+  {
+    "CodDepartamento": 18,
+    "CodMunicipio": 1801,
+    "Descr": "Puerto Barrios"
+  },
+  {
+    "CodDepartamento": 18,
+    "CodMunicipio": 1802,
+    "Descr": "Livingston"
+  },
+  {
+    "CodDepartamento": 18,
+    "CodMunicipio": 1803,
+    "Descr": "El Estor"
+  },
+  {
+    "CodDepartamento": 18,
+    "CodMunicipio": 1804,
+    "Descr": "Morales"
+  },
+  {
+    "CodDepartamento": 18,
+    "CodMunicipio": 1805,
+    "Descr": "Los Amates"
+  },
+  {
+    "CodDepartamento": 19,
+    "CodMunicipio": 1901,
+    "Descr": "Zacapa"
+  },
+  {
+    "CodDepartamento": 19,
+    "CodMunicipio": 1902,
+    "Descr": "Estanzuela"
+  },
+  {
+    "CodDepartamento": 19,
+    "CodMunicipio": 1903,
+    "Descr": "Rio Hondo"
+  },
+  {
+    "CodDepartamento": 19,
+    "CodMunicipio": 1904,
+    "Descr": "Gualán"
+  },
+  {
+    "CodDepartamento": 19,
+    "CodMunicipio": 1905,
+    "Descr": "Teculután"
+  },
+  {
+    "CodDepartamento": 19,
+    "CodMunicipio": 1906,
+    "Descr": "Usumatlán"
+  },
+  {
+    "CodDepartamento": 19,
+    "CodMunicipio": 1907,
+    "Descr": "Cabañas"
+  },
+  {
+    "CodDepartamento": 19,
+    "CodMunicipio": 1908,
+    "Descr": "San Diego"
+  },
+  {
+    "CodDepartamento": 19,
+    "CodMunicipio": 1909,
+    "Descr": "La Unión"
+  },
+  {
+    "CodDepartamento": 19,
+    "CodMunicipio": 1910,
+    "Descr": "Huité"
+  },
+  {
+    "CodDepartamento": 19,
+    "CodMunicipio": 1911,
+    "Descr": "San Jorge"
+  },
+  {
+    "CodDepartamento": 20,
+    "CodMunicipio": 2001,
+    "Descr": "Chiquimula"
+  },
+  {
+    "CodDepartamento": 20,
+    "CodMunicipio": 2002,
+    "Descr": "San Jose la Arada"
+  },
+  {
+    "CodDepartamento": 20,
+    "CodMunicipio": 2003,
+    "Descr": "San Juan Ermita"
+  },
+  {
+    "CodDepartamento": 20,
+    "CodMunicipio": 2004,
+    "Descr": "Jocotán"
+  },
+  {
+    "CodDepartamento": 20,
+    "CodMunicipio": 2005,
+    "Descr": "Camotán"
+  },
+  {
+    "CodDepartamento": 20,
+    "CodMunicipio": 2006,
+    "Descr": "Olopa"
+  },
+  {
+    "CodDepartamento": 20,
+    "CodMunicipio": 2007,
+    "Descr": "Esquipulas"
+  },
+  {
+    "CodDepartamento": 20,
+    "CodMunicipio": 2008,
+    "Descr": "Concepción Las Minas"
+  },
+  {
+    "CodDepartamento": 20,
+    "CodMunicipio": 2009,
+    "Descr": "Quezaltepeque"
+  },
+  {
+    "CodDepartamento": 20,
+    "CodMunicipio": 2010,
+    "Descr": "San Jacinto"
+  },
+  {
+    "CodDepartamento": 20,
+    "CodMunicipio": 2011,
+    "Descr": "Ipala"
+  },
+  {
+    "CodDepartamento": 21,
+    "CodMunicipio": 2101,
+    "Descr": "Jalapa"
+  },
+  {
+    "CodDepartamento": 21,
+    "CodMunicipio": 2102,
+    "Descr": "San Pedro Pinula"
+  },
+  {
+    "CodDepartamento": 21,
+    "CodMunicipio": 2103,
+    "Descr": "San Luis Jilotepeque"
+  },
+  {
+    "CodDepartamento": 21,
+    "CodMunicipio": 2104,
+    "Descr": "San Manuel Chaparrón"
+  },
+  {
+    "CodDepartamento": 21,
+    "CodMunicipio": 2105,
+    "Descr": "San Carlos Alcazate"
+  },
+  {
+    "CodDepartamento": 21,
+    "CodMunicipio": 2106,
+    "Descr": "Monjas"
+  },
+  {
+    "CodDepartamento": 21,
+    "CodMunicipio": 2107,
+    "Descr": "Mataquescuintla"
+  },
+  {
+    "CodDepartamento": 22,
+    "CodMunicipio": 2201,
+    "Descr": "Jutiapa"
+  },
+  {
+    "CodDepartamento": 22,
+    "CodMunicipio": 2202,
+    "Descr": "El Progreso"
+  },
+  {
+    "CodDepartamento": 22,
+    "CodMunicipio": 2203,
+    "Descr": "Santa Catarina Mita"
+  },
+  {
+    "CodDepartamento": 22,
+    "CodMunicipio": 2204,
+    "Descr": "Agua Blanca"
+  },
+  {
+    "CodDepartamento": 22,
+    "CodMunicipio": 2205,
+    "Descr": "Asunción Mita"
+  },
+  {
+    "CodDepartamento": 22,
+    "CodMunicipio": 2206,
+    "Descr": "Yupiltepeque"
+  },
+  {
+    "CodDepartamento": 22,
+    "CodMunicipio": 2207,
+    "Descr": "Atescatempa"
+  },
+  {
+    "CodDepartamento": 22,
+    "CodMunicipio": 2208,
+    "Descr": "Jerez"
+  },
+  {
+    "CodDepartamento": 22,
+    "CodMunicipio": 2209,
+    "Descr": "El Adelanto"
+  },
+  {
+    "CodDepartamento": 22,
+    "CodMunicipio": 2210,
+    "Descr": "Zapotitlán"
+  },
+  {
+    "CodDepartamento": 22,
+    "CodMunicipio": 2211,
+    "Descr": "Comapa"
+  },
+  {
+    "CodDepartamento": 22,
+    "CodMunicipio": 2212,
+    "Descr": "Jalpatagua"
+  },
+  {
+    "CodDepartamento": 22,
+    "CodMunicipio": 2213,
+    "Descr": "Conguaco"
+  },
+  {
+    "CodDepartamento": 22,
+    "CodMunicipio": 2214,
+    "Descr": "Moyuta"
+  },
+  {
+    "CodDepartamento": 22,
+    "CodMunicipio": 2215,
+    "Descr": "Pasaco"
+  },
+  {
+    "CodDepartamento": 22,
+    "CodMunicipio": 2216,
+    "Descr": "San José Acatempa"
+  },
+  {
+    "CodDepartamento": 22,
+    "CodMunicipio": 2217,
+    "Descr": "Quesada"
+  }
+]
